@@ -75,7 +75,7 @@ AIOStream isn’t just a software — it’s a smart, all-in-one **music growth 
 
 ## 🛠️ Get Started
 
-1. Download and install the software  
+1. Download and install the software AIOStream
 2. Add your streaming accounts  
 3. Set up stream/play/follow tasks  
 4. Hit “Run” and watch your metrics grow!
