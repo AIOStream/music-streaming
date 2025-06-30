@@ -1,6 +1,6 @@
 # 🎵 AIOStream: The Future of AI-Powered Music Streaming Growth
 
-[AIOStream](https://www.aiostream.com){:target="_blank"} is an all-in-one AI-driven music promotion tool built for **artists**, **musicians**, and **music marketers**. It automates growth on all major streaming platforms — including **Spotify**, **YouTube**, **Apple Music**, **SoundCloud**, **Tidal**, and more — helping you grow **organic plays**, **followers**, **monthly listeners**, and **royalties** at scale.
+[AIOStream](https://www.aiostream.com) is an all-in-one AI-driven music promotion tool built for **artists**, **musicians**, and **music marketers**. It automates growth on all major streaming platforms — including **Spotify**, **YouTube**, **Apple Music**, **SoundCloud**, **Tidal**, and more — helping you grow **organic plays**, **followers**, **monthly listeners**, and **royalties** at scale.
 
 > ✅ Whether you're an independent musician launching a new track or a label managing multiple artists, AIOStream is your control center for safe, powerful music streaming automation.
 
@@ -10,9 +10,9 @@
 
 In today’s music marketing landscape, several tools compete to help artists grow. The most common categories:
 
-- **[AIOStream](https://aiostream.com){:target="_blank"}**– Automation for real-time, organic stream boosts across 12+ platforms. Ideal for scaling listeners and royalties.
-- **[Somiibo](https://somiibo.com){:target="_blank"}** – Free social media automation bot focused on platforms like SoundCloud, Instagram, and TikTok.
-- **[Groover](https://groover.co){:target="_blank"}** – A music pitching marketplace where artists submit songs to curators, labels, and radio hosts.
+- **[AIOStream](https://aiostream.com)**– Automation for real-time, organic stream boosts across 12+ platforms. Ideal for scaling listeners and royalties.
+- **[Somiibo](https://somiibo.com)** – Free social media automation bot focused on platforms like SoundCloud, Instagram, and TikTok.
+- **[Groover](https://groover.co)** – A music pitching marketplace where artists submit songs to curators, labels, and radio hosts.
 - **SMM Marketplaces** – Services like UseViral or Media Mister that sell Spotify plays or followers (usually without user control or transparency).
 
 🎯 Use cases vary:
@@ -75,11 +75,10 @@ AIOStream isn’t just a software — it’s a smart, all-in-one **music growth 
 
 ## 🛠️ Get Started
 
-1. Visit [AIOStream.com](https://www.aiostream.com){:target="_blank"}  
-2. Download and install the software  
-3. Add your streaming accounts  
-4. Set up stream/play/follow tasks  
-5. Hit “Run” and watch your metrics grow!
+1. Download and install the software  
+2. Add your streaming accounts  
+3. Set up stream/play/follow tasks  
+4. Hit “Run” and watch your metrics grow!
 
 Setup is easy — no technical skills needed. Ideal for both beginners and experts.
 
@@ -112,9 +111,9 @@ Then [AIOStream](https://www.aiostream.com){:target="_blank"} is your next step.
 ---
 
 **🔗 Learn More:**  
-- 🌐 [AIOStream Official Website](https://www.aiostream.com){:target="_blank"}  
-- 🤖 [Somiibo Website](https://somiibo.com){:target="_blank"}  
-- 🎤 [Groover Website](https://groover.co){:target="_blank"}
+- 🌐 [AIOStream Official Website](https://www.aiostream.com) 
+- 🤖 [Somiibo Website](https://somiibo.com)  
+- 🎤 [Groover Website](https://groover.co)
 
 ---
 
