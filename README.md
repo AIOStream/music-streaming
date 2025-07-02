@@ -1,4 +1,3 @@
----
 ## 🌐 Industry Landscape & Macro Comparison
 
 The global music streaming market is on track to exceed **$100 billion in annual revenue by 2030** — powered by rising mobile usage, algorithmic playlists, and the global shift toward independent music distribution.
